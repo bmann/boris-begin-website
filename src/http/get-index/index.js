@@ -7,21 +7,21 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    fullname: 'Boris Mann', // ←  Start by adding your name!
+    title: 'Boris Mann @ Begin',
+    occupation: 'Web Tinkerer and Open Source Hand-waver',
+    location: 'Vancouver, BC, Canada',
+    bio: 'Building <a href="https://fission.codes">Fission</a>, a decentralized backend-as-a-service that supports user control of data. Come <a href="https://fission.codes/discord">chat with my on the Fission Discord</a>.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'boris@bmannconsulting.com',
+    twitter: 'bmann',
+    linkedin: 'boris',
+    /* instagram: 'yourInsta', */
+    /* facebook: 'your-facebook-name', */
 
     /**
      * Layout
